@@ -150,6 +150,11 @@ The annotation will be saved to the folder you specify.
 
 You can refer to the below hotkeys to speed up your workflow.
 
+Create 3D bounding box
+~~~~~~~~~~~~~~~~~~~~~~
+
+You
+
 Create pre-defined classes
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
