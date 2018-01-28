@@ -150,10 +150,20 @@ The annotation will be saved to the folder you specify.
 
 You can refer to the below hotkeys to speed up your workflow.
 
-Create 3D bounding box
+Annotate 3D-Bounding Box
 ~~~~~~~~~~~~~~~~~~~~~~
 
-You
+After an image is opened click 'Create 3D Box'.
+
+First you have to decide if a vehicle you want to annotate goes to the viewer or from. 
+
+Now click, move and release left mouse button to select a rectangled region just like for 2D-BB annotation but with one little addition: if a vehicle goes to the viewer your move must be top down, otherwise bottom up. You can choose whether to move from left to right or vice versa, but it is highly reccomended to try to select the whole object with the rectangled region.
+
+After the release, 3D-BB is created automatically. Points of it now are set by default based on selected region.
+
+Now you can drag points of the 3D-BB independent from each other in order to make your annotation more perspective correct.
+
+The front of a 3D-BB is highlighted in blue to help distinguish the direction of motion.
 
 Create pre-defined classes
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
